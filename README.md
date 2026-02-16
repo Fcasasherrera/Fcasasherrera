@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/1.gif" alt="Demo" width="600">
+  <img src="assets/1.gif" alt="Demo" width="1200">
 </h1>
 
 <p align="center">
@@ -12,10 +12,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=18&width=435&color=14FF00&center=true&lines=SYSTEM+ACCESS+GRANTED...;Fernando+Casas;Senior+Full-Stack+Developer;Cybersecurity+Engineer;Building+resilient+solutions...">
   </a>
 </div>
-
-<p align="center">
-  <img src="assets/1.gif" alt="System Load" width="600">
-</p>
 
 ---
 
