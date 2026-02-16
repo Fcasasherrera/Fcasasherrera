@@ -2,11 +2,11 @@
   <img src="assets/1.gif" alt="Demo" width="800">
 </h1>
 
-[![E](https://img.shields.io/badge/E-fcasasherrera%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fcasasherrera@gmail.com)
-[![L](https://img.shields.io/badge/L-Fernando%20Casas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-fabian-casas-herrera-555044148/)
-[![F](https://img.shields.io/badge/F-Fernando%20Casas-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/fernandofabian.casasherrera/)
-[![I](https://img.shields.io/badge/I-@__thrash__gold.exe-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_thrash_gold.exe/)
-[![R](https://img.shields.io/badge/R-Additional__Lettuce88-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Additional_Lettuce88/)
+[![E](https://img.shields.io/badge/-fcasasherrera%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fcasasherrera@gmail.com)
+[![L](https://img.shields.io/badge/-Fernando%20Casas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-fabian-casas-herrera-555044148/)
+[![F](https://img.shields.io/badge/-Fernando%20Casas-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/fernandofabian.casasherrera/)
+[![I](https://img.shields.io/badge/-@__thrash__gold.exe-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_thrash_gold.exe/)
+[![R](https://img.shields.io/badge/-Additional__Lettuce88-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Additional_Lettuce88/)
 
 <p align="center">
   <a href="https://linktr.ee/fcasasherrera">【 https://linktr.ee/fcasasherrera 】</a>
