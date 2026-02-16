@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://linktr.ee/fcasasherrera">【 https://linktr.ee/fcasasherrera 】</a>
+    <img src="https://komarev.com/ghpvc/?username=fcasasherrera&style=for-the-badge&color=green" alt="Views"/>
     <div id="header" align="center">
-        <img src="https://komarev.com/ghpvc/?username=fcasasherrera&style=for-the-badge&color=green" alt="Views"/>
         <a href="https://github.com/fcasasherrera">
             <img src="https://readme-typing-svg.herokuapp.com?size=18&width=435&color=14FF00&center=true&lines=SYSTEM+ACCESS+GRANTED...;Fernando+Casas;Senior+Full-Stack+Developer;Cybersecurity+Engineer;Building+resilient+solutions...">
         </a>
