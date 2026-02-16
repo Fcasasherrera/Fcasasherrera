@@ -107,7 +107,7 @@ Active_Uplink: "fcasasherrera@gmail.com"
 ---
 
 
-[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=fcasasherrera&theme=radical&days=180&area=true&hide_border=true)](https://github.com/fcasasherrera)
+[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=fcasasherrera&theme=tokyonight&days=180&area=true&hide_border=true)](https://github.com/fcasasherrera)
 
 
 ---
