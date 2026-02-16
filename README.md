@@ -24,6 +24,7 @@
 > **Technical Profile:** Senior Developer con enfoque en **Security by Design**. Dominio experto en ecosistemas de JavaScript y PHP, con capacidad de despliegue en infraestructuras Cloud y arquitecturas escalables.
 
 ---
+[![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🖥️ EXECUTABLE_SKILLS_TREE
 
@@ -50,37 +51,39 @@
 └── 🐚 OS_Environment
     └── Linux / MacOS / Windows
 ```
-### 📊 SYSTEM_METRICS
-<div align="center">
-    <table border="0">
-        <tr>
-            <td>
-                <img src="https://www.google.com/search?q=https://github-readme-stats-fast.vercel.app/api%3Fusername%3Dfrangelbarrera%26theme%3Dchartreuse-dark%26show_icons%3Dtrue%26hide_border%3Dtrue%26count_private%3Dtrue"
-                    alt="Stats" />
-            </td>
-            <td>
-                <img src="https://www.google.com/search?q=https://github-readme-stats-fast.vercel.app/api/top-langs/%3Fusername%3Dfrangelbarrera%26layout%3Dcompact%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26hide%3Dhtml,css"
-                    alt="Langs" />
-            </td>
-        </tr>
-    </table>
-</div>
 
-### 📞 ESTABLISH_CONNECTION
-<div align="center">
-    <a href="mailto:fcasasherrera@gmail.com">
-        <img
-            src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-    </a>
-    <a href="https://x.com/fcasasherrera">
-        <img
-            src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" />
-    </a>
-</div>
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-    <img width="150" src="https://github.com/user-attachments/assets/c5079888-db95-4941-bf1f-a886da6bafb5">
-</p>
+## Education
+
+**Cybersecurity Engineering**  
+Universidad de Ciencias Informáticas (UCI), Havana, Cuba    
+
+Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification"
+
+## Certifications
+
+- Ethical Hacker (Cisco Networking Academy)
+- Artificial Intelligence Fundamentals (IBM SkillsBuild)
+- Cyber Intelligence Course (University of Salamanca)
+
+## Languages
+
+- Spanish: Native
+- English: B1 - Intermediate
+
+## Contact
+
+Available for remote opportunities worldwide. Actively seeking roles in cybersecurity, software development, and AI integration.
+https://linktr.ee/frangelbarrera
+
+---
+
+
+[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=react-dark&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
+
+
+---
 
 <!--
 **Fcasasherrera/Fcasasherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
