@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/75953873/111233290-7c961d00-85cb-11eb-982b-1cdfb0396225.png" width="800">
+  <img src="assets/1.gif" alt="Demo" width="600">
 </h1>
 
 <p align="center">
-  <a href="https://linktr.ee/frangelbarrera">【 https://linktr.ee/frangelbarrera 】</a>
+  <a href="https://linktr.ee/fcasasherrera">【 https://linktr.ee/fcasasherrera 】</a>
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=frangelbarrera&style=for-the-badge&color=green" alt="Views"/>
-  <a href="https://github.com/frangelbarrera">
+  <img src="https://komarev.com/ghpvc/?username=fcasasherrera&style=for-the-badge&color=green" alt="Views"/>
+  <a href="https://github.com/fcasasherrera">
     <img src="https://readme-typing-svg.herokuapp.com?size=18&width=435&color=14FF00&center=true&lines=SYSTEM+ACCESS+GRANTED...;Fernando+Casas;Senior+Full-Stack+Developer;Cybersecurity+Engineer;Building+resilient+solutions...">
   </a>
 </div>
@@ -24,7 +24,7 @@
 > **Technical Profile:** Senior Developer con enfoque en **Security by Design**. Dominio experto en ecosistemas de JavaScript y PHP, con capacidad de despliegue en infraestructuras Cloud y arquitecturas escalables.
 
 ---
-[![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fcasasherrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🖥️ EXECUTABLE_SKILLS_TREE
 
@@ -52,7 +52,7 @@
     └── Linux / MacOS / Windows
 ```
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fcasasherrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
 
@@ -75,12 +75,12 @@ Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL 
 ## Contact
 
 Available for remote opportunities worldwide. Actively seeking roles in cybersecurity, software development, and AI integration.
-https://linktr.ee/frangelbarrera
+https://linktr.ee/fcasasherrera
 
 ---
 
 
-[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=react-dark&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
+[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=fcasasherrera&theme=react-dark&days=180&area=true&hide_border=true)](https://github.com/fcasasherrera)
 
 
 ---
