@@ -1,9 +1,13 @@
 <h1 align="center">
   <img src="assets/1.gif" alt="Demo" width="1000">
 </h1>
-
-[![Email](https://img.shields.io/badge/Email-fcasasherrera%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fcasasherrera@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Fernando%20Casas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-fabian-casas-herrera-555044148/)
+<p align="center">
+    [![Email](https://img.shields.io/badge/Email-fcasasherrera%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fcasasherrera@gmail.com)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-Fernando%20Casas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-fabian-casas-herrera-555044148/)
+    [![Facebook](https://img.shields.io/badge/Facebook-Fernando%20Casas-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/fernandofabian.casasherrera/)
+    [![Instagram](https://img.shields.io/badge/Instagram-@__thrash__gold.exe-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_thrash_gold.exe/)
+    [![Reddit](https://img.shields.io/badge/Reddit-Additional__Lettuce88-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Additional_Lettuce88/)
+</p>
 
 <p align="center">
   <a href="https://linktr.ee/fcasasherrera">【 https://linktr.ee/fcasasherrera 】</a>
@@ -22,7 +26,7 @@
 > **Technical Profile:** Senior Developer con enfoque en **Security by Design**. Dominio experto en ecosistemas de JavaScript y PHP, con capacidad de despliegue en infraestructuras Cloud y arquitecturas escalables.
 
 ---
-[![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fcasasherrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fcasasherrera&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🖥️ EXECUTABLE_SKILLS_TREE
 
@@ -50,35 +54,61 @@
     └── Linux / MacOS / Windows
 ```
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fcasasherrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fcasasherrera&layout=compact&theme=radical&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-## Education
+---
 
-**Cybersecurity Engineering**  
-Universidad de Ciencias Informáticas (UCI), Havana, Cuba    
+### 🔄 CURRENT_PROCESSES
 
-Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification"
+* **Optimization:** Refactoring a React Native bridge for biometrics & native modules.
+* **Security:** Studying network protocols and port management for vulnerability assessment.
+* **Learning:** Masterizing **Bash Scripting** for workflow automation.
+* **Legacy_System:** Exploring **.NET** ecosystem (mandatory protocol... 😒).
+* **Audit:** Hardening a Laravel API under OWASP security standards.
+* **Language_Patch:** Upgrading **English proficiency** to B2/C1 (Global Communication Sync).
 
-## Certifications
+---
 
-- Ethical Hacker (Cisco Networking Academy)
-- Artificial Intelligence Fundamentals (IBM SkillsBuild)
-- Cyber Intelligence Course (University of Salamanca)
+### 🎓 CLASSIFIED_EDUCATION
 
-## Languages
+* **B.S. in Computer Science Engineering**
+  * *Specialization:* Mobile Architecture & Intelligent User Interfaces.
+* **Research Focus:** Deep Learning (CNN & LSTM) applied to Mobile UX Security and Malicious Activity Detection in Client-Side Environments.
+* **Key Training:** Advanced Frontend Frameworks, Mobile OS Internals, and Cloud-Sync Architectures.
+
+---
+
+### ⚙️ SYSTEM_CAPABILITIES
+
+* **High-Performance Mobile UI** — [React Native Expert & Native Bridge Modules]
+* **Modern Frontend Architecture** — [React.js, SOLID Hooks & State Management]
+* **Secure Client-Side Development** — [OWASP Mobile Top 10 & Data Encryption]
+* **Secure Backend Architecture** — [Laravel, Node.js, Python, & PHP]
+* **Cloud-First Infrastructure** — [AWS Lambda, Docker, CI/CD, & Sentry]
+* **DevOps Automation** — [CI/CD Pipelines, Docker, & Terraform]
+* **Automation Framework** — [Python, Bash, & PowerShell]
+* **Security by Design** — [Ethical Hacking (Newbie) & Penetration Testing (Newbie)]
+
+
+### 📜 LANGUAGUE_STATUS
 
 - Spanish: Native
 - English: B1 - Intermediate
 
-## Contact
+### 📡 STATUS_REPORT
 
-Available for remote opportunities worldwide. Actively seeking roles in cybersecurity, software development, and AI integration.
-https://linktr.ee/fcasasherrera
+```YAML
+Current_Status: "OPEN_FOR_CONNECTIONS"
+Role_Target: ["Senior Mobile Engineer", "Full-Stack Developer", "Frontend Architect"]
+Remote_Access: "ENABLED_WORLDWIDE"
+Availability: "ACTIVE_HUNTING"
+Active_Uplink: "fcasasherrera@gmail.com"
+```
 
 ---
 
 
-[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=fcasasherrera&theme=react-dark&days=180&area=true&hide_border=true)](https://github.com/fcasasherrera)
+[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=fcasasherrera&theme=radical&days=180&area=true&hide_border=true)](https://github.com/fcasasherrera)
 
 
 ---
