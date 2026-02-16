@@ -12,7 +12,7 @@
   <a href="https://linktr.ee/fcasasherrera">【 https://linktr.ee/fcasasherrera 】</a>
     <div id="header" align="center">
         <a href="https://github.com/fcasasherrera">
-            <img src="https://readme-typing-svg.herokuapp.com?size=18&width=435&color=14FF00&center=true&lines=SYSTEM+ACCESS+GRANTED...;Fernando+Casas;Senior+Full-Stack+Developer;Cybersecurity+Engineer;Building+resilient+solutions...">
+            <img src="https://readme-typing-svg.herokuapp.com?size=18&width=600&color=14FF00&center=true&lines=SYSTEM+ACCESS+GRANTED...;Fernando+Casas;Senior+Full-Stack+Developer;%5BSTAY_ANONYMOUS%5D+%3A+In+code+we+trust%2C+in+silence+we+thrive.">
         </a>
     </div>
 </p>
